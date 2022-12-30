@@ -1,22 +1,71 @@
-# My submission on Moja global recommended  tasks on project `Research data sources for carbon sequestration in forests` for Outreachy 2022 contribution phase.
+## Global analysis of forests 
+
+The task is to pick a favourite forest, make analysis and report my findings which I have done [here](https://nbviewer.org/github/Hafsah2020/geospatial_analysis_on_Tropical_and_subtropical_moist_broadleaf_forests/blob/main/Global_analysis_of_all_forests_in_the_world.ipynb)
 
 
-Please view the tasks and links to my submission below:-
-* Task 0- Git & Github
-     Description on my interest in the selected project. The link to my submission is [here](https://github.com/Hafsah2020/Outreachy_Hafsah_Anibaba_2022/blob/main/README.md)
-* Task 1- Make analysis on favourite forest
-  <br><br>For this analysis after viewing all forests around the world and sharing the result [here](https://github.com/Hafsah2020/mentorship-outreachy/blob/moja-global-main/outreachy/Southern_New_Guinea_freshwater_swamp_forest_analysis/Global_analysis_of_all_forests_in_the_world.md),  I chose Southern New Guinea freshwater swamp forest made analysis on the forest to see its characteristics and shared my result [here](https://github.com/Hafsah2020/mentorship-outreachy/blob/moja-global-main/outreachy/Southern_New_Guinea_freshwater_swamp_forest_analysis/Southern_New_Guinea_freshwater_swamp_forest.md) 
-<<<<<<< HEAD
-  
-=======
-    </li>
+### Table of contents
 
-</ol>
+___
 
->>>>>>> d75c00301a1b3ce28ab73f8f7bbb55385a2aa1db
+* [Administrative boundaries](#Administrative-boundaries)
+* [Bioclimatic zones](#Bioclimatic-zones)
+* [Climate](#Climate)
+* [Soil resources](#Soil-resources)
 
+___
+
+
+### Administrative boundaries
+
+To see the avilable forests I plotted all forests from the data I got [here](https://datasets.mojaglobal.workers.dev/0:/Bioclimatic&EcologicalZones/HoldridgeLifeZones.json) and I have this
+![forests in the world](Images/forests_in_the_world.JPG)
+
+Then I picked interest in `tropical dry forests` and focused analysis on this type of forest
+The locaton and boundaries of tropical dry forests is shown here:
+![Tropical forests in the world](Images/tropical_forests_location.JPG)
+
+### Bioclimatic zones
+
+###### Agro-ecological zones
+
+I plotted the forest against their agroecological zones here:
+![Agro ecological zones](Images/agro_eco_zones.png)
+
+The forests are mostly found in the subhumid soils and moist soils agro-ecological zones
+
+###### Biomes
+
+I plotted the forest against their Biomes here:
+![Agro ecological zones](Images/biomes.png)
+
+The forests are mostly found in the Tropical and subtropical moist broadleafs, savannah and shrublands,
+
+![biomes_count](Images/terr_eco_zones_count.png)
+
+
+###### Water scarcity zones
+
+I plotted the forest against water scarcity zones here:
+![Water scarcity zones](Images/fav_forest_nut_water.png)
+
+The forests are located mostly in the economic water scarcity zones and alos in the physical water scarcity zones
+
+
+### Climate
+I plotted to see the climates of tropical dry forsts
+![climate](Images/climate.png)
+
+As expected they are found in tropical dry forests
+
+
+### Soil resources
+
+I plotted to see the kind of soils in tropical dry forsts
+![Soil resources](Images/soil.png)
+
+The soil resources commonly found in tropical dry forests are Vertisol,  Lixisol
 
 
 ### Author
 
-<b>Hafsah Anibaba</b> - hafsahoyin@yahoo.com
+Hafsah Anibaba - hafsahoyin@yahoo.com
