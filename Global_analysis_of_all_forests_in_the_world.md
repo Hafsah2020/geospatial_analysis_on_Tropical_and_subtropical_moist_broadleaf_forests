@@ -1,7 +1,6 @@
 ## Global analysis of forests 
 
-The task is to pick a favourite forest, make analysis and report my findings which I have done [here](https://nbviewer.org/github/Hafsah2020/mentorship-outreachy/blob/moja-global-main/outreachy/Southern_New_Guinea_freshwater_swamp_forest_analysis/Global_analysis_of_all_forests_in_the_world.ipynb)
-
+The task is to pick a favourite forest, make analysis and report my findings which I have done [here](https://nbviewer.org/github/Hafsah2020/geospatial_analysis_on_Tropical_and_subtropical_moist_broadleaf_forests/blob/main/Global_analysis_of_all_forests_in_the_world.ipynb)
 
 
 ### Table of contents
