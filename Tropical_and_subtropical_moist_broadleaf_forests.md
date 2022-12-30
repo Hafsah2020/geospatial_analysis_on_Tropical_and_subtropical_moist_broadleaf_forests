@@ -1,6 +1,6 @@
 ### Analysis on Tropical and subtropical moist broadleaf forests
 
-After I made global analysis on forests which i did  [here](https://nbviewer.org/github/Hafsah2020/mentorship-outreachy/blob/moja-global-main/outreachy/Southern_New_Guinea_freshwater_swamp_forest_analysis/Global_analysis_of_all_forests_in_the_world.ipynb) and shared results of my analysis [here](Global_analysis_of_all_forests_in_the_world.md). I picked interest in Tropical and subtropical moist broadleaf forests in West Africa and analysed it [here](https://nbviewer.org/github/Hafsah2020/mentorship-outreachy/blob/moja-global-main/outreachy/Southern_New_Guinea_freshwater_swamp_forest_analysis/Tropical and subtropical moist broadleaf forests'.ipynb)
+After I made global analysis on forests which i did  [here](https://nbviewer.org/github/Hafsah2020/geospatial_analysis_on_Tropical_and_subtropical_moist_broadleaf_forests/blob/main/Global_analysis_of_all_forests_in_the_world.ipynb) and shared results of my analysis [here](Global_analysis_of_all_forests_in_the_world.md). I picked interest in Tropical and subtropical moist broadleaf forests in West Africa and analysed it [here](https://nbviewer.org/github/Hafsah2020/geospatial_analysis_on_Tropical_and_subtropical_moist_broadleaf_forests/blob/main/Tropical_and_subtropical_moist_broadleaf_forests.ipynb)
 
 ### Table of contents
 
